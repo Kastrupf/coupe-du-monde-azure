@@ -1,10 +1,13 @@
 <h1 align="center">
-Workshop TFTEC - Coupe du Monde Azure
+Coupe du Monde Azure
 </h1>
 
 <h3 align="center">
-Du 03 au 24/11/2022
+WORKSHOP TFTEC 
 </h3>
+<h5 align="center">
+Du 03 au 24/11/2022
+</h5>
 
 <p align="center">
 <img style="width:800px" alt="image" src="https://user-images.githubusercontent.com/43493818/201467790-2ef5760e-1bc4-40dd-8b05-be1e0e66bef1.png">
