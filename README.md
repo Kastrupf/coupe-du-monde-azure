@@ -1,5 +1,5 @@
 <h1 align="center">
-Workshop TFTEC - Coupe du Monde Azure 2022 (Brésil)
+Workshop TFTEC - Coupe du Monde Azure
 </h1>
 
 <h3 align="center">
