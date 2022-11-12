@@ -10,4 +10,4 @@ Mettre à niveau tous les participants sur les technologies du cloud computing e
 
 - [x] Créer un compte test (Trial) sur Azure 📝
 - [x] Configurer une organisation et créer le projet sur Azure DevOps 📝
-- [x] Demander et valider le MS Hosted (1.800 minutes) sur Azure DevOps 📝
+- [x] Demander la libération du Microsoft Hosted Agent pour s'exécuter pipelines sur Azure DevOps 📝
