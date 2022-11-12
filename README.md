@@ -23,8 +23,11 @@ Du 03 au 24/11/2022
 ## **Le projet**
 
 TFTEC Store est une société (fictive) qui opère dans l'E-commerce, offrent une large gamme de produits.
+
 Lors de la planification de l'année 2022, des modifications ont été apportées à la TI.
+
 Parmi les principaux changements convenus figure la migration complète de l'infrastructure d'application et de service cloud, plus spécifiquement vers Azure.
+
 J'ai été embauchée pour mener à bien le projet de migration de la structure TFTEC Store vers Azure.
 
 
