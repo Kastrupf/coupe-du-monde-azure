@@ -1,6 +1,6 @@
 # Workshop TFTEC - Coupe du Monde Azure 2022 (Brésil)
 
-<img width="533" alt="image" src="https://user-images.githubusercontent.com/43493818/201467790-2ef5760e-1bc4-40dd-8b05-be1e0e66bef1.png">
+<img style="width:800px" alt="image" src="https://user-images.githubusercontent.com/43493818/201467790-2ef5760e-1bc4-40dd-8b05-be1e0e66bef1.png">
 
 ## **Le projet**
 
