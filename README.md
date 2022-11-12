@@ -42,6 +42,6 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 - Les activités techniques doivent être menées en mettant l'accent sur le temps d'indisponibilité le plus court possible du site.
 
 ## **Liens**
-- [Calendrier](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/calendrier.md)
-- [Résultats](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/resultats.md)
-- [Publications sur les réseaux sociaux](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/publication.md)
+- [Calendrier](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/calendrier.md)
+- [Résultats](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/resultats.md)
+- [Publications sur les réseaux sociaux](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/publication.md)
