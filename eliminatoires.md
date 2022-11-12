@@ -8,6 +8,6 @@ Mettre à niveau tous les participants sur les technologies du cloud computing e
 
 ## **Tâches**
 
-- [x] Créer un compte test (Trial) sur Azure 📝
-- [x] Configurer une organisation et créer le projet sur Azure DevOps 📝
-- [x] Demander la libération du Microsoft Hosted Agent pour s'exécuter pipelines sur Azure DevOps 📝
+- 📝 Créer un compte test (Trial) sur Azure 
+- 📝 Configurer une organisation et créer le projet sur Azure DevOps 
+- 📝 Demander la libération du Microsoft Hosted Agent pour s'exécuter pipelines sur Azure DevOps 
