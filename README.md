@@ -57,7 +57,7 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 
 - L'exécution du projet doit être réalisée sous forme de sprints (15 jours chacun) ;
 - Toutes les activités doivent être répertoriées et contrôlées via Azure DevOps ;
-- En raison de la nécessité de désactiver le Data Center On-premise, la migration des services doit être effectuée au format IaaS (application) et PaaS (banque) dans un premier temps. Appliquer par la suite des améliorations et des modernisations à la couche applicative ;
+- En raison de la nécessité de désactiver le Data Center On-premise, la migration des services doit être effectuée au format IaaS (application) et PaaS (base de données) dans un premier temps. Appliquer par la suite des améliorations et des modernisations à la couche applicative ;
 - Les activités techniques doivent être menées en mettant l'accent sur le temps d'indisponibilité le plus court possible du site.
 
 
