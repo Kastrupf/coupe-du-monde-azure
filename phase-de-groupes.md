@@ -15,6 +15,13 @@ Créer et configurer l'environnement on-premises
 - 📝 Deploiement des premiers utilisateurs sur le ADDS 
 - 📝 Premier design d'architecture 
 
+## **Liens utiles**
+
+- Enregistrer un domaine public - [Frenom - Un nom pour tous](https://www.freenom.com/pt/index.html)
+- Designer l'architecture - [Draw.io online](https://app.diagrams.net/)
+- Télécharger [Draw.io](https://github.com/jgraph/drawio-desktop/releases/tag/v20.3.0)
+
+
 ## **Evidences**
 
 - ### Commande passée sur le site de vente
