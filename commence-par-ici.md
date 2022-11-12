@@ -41,4 +41,7 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 - En raison de la nécessité de désactiver le Data Center On-premise, la migration des services doit être effectuée au format IaaS (application) et PaaS (banque) dans un premier temps. Appliquer par la suite des améliorations et des modernisations à la couche applicative ;
 - Les activités techniques doivent être menées en mettant l'accent sur le temps d'indisponibilité le plus court possible du site.
 
-
+## **Liens**
+- [Calendrier](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/calendrier.md)
+- [Résultats](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/resultats.md)
+- [Publications sur les réseaux sociaux](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/publication.md)
