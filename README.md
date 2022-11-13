@@ -88,7 +88,7 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 
 ## **Coupe du Monde avec IaC**
 
-- [Terraform](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/terraform/main) - *en construction*
+- [Terraform](https://github.com/Kastrupf/coupe-du-monde-azure/tree/main/terraform/) - *en construction*
 
 ---
 
