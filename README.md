@@ -67,11 +67,28 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 - Les activités techniques doivent être menées en mettant l'accent sur le temps d'indisponibilité le plus court possible du site.
 
 
+---
+
+## **Etapes**
+
+- [Eliminatoires](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/eliminatoires.md) ✔️
+- [Phase de groupes](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/phase-de-groupes.md) ✔️
+- [Huitièmes de finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/huitiemes-de-finale.md)
+- [Quarts de finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/quarts-de-finale.md)
+- [Demi-finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/demi-finale.md)
+- [Finale](https://https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/finale.md)
+
+
 ## **Liens**
 
 - [Calendrier](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/calendrier.md)
 - [Résultats](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/resultats.md)
 - [Publications sur les réseaux sociaux](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/publication.md)
+
+
+## **Coupe du Monde avec IaC**
+
+- [Terraform](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/terraform/main) - *en construction*
 
 ---
 
