@@ -4,7 +4,7 @@ Live Youtube [HUITIEMES DE FINALE](https://youtu.be/Z1bbaqj7ka0)
 
 ## **Objectifs**
 
-Mettre en place le le processus de migration de l’application E-Commerce, en utilisant les meilleures pratiques de CAF - Azure Cloud Adoption Framework.
+Mettre en place le processus de migration de l’application E-Commerce, en utilisant les meilleures pratiques de CAF - Azure Cloud Adoption Framework.
 
 ## **Tâches**
 
@@ -27,7 +27,7 @@ Mettre en place le le processus de migration de l’application E-Commerce, en u
 
 ## **Liens utiles**
 
-- Framework d’adoption du cloud Microsoft pour Azure - [CAF](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/)
+- Framework d’adoption du cloud ´Microsoft pour Azure - [CAF](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/)
 - Zone d’atterrissage Azure - [Landing Zone](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/ready/landing-zone/)
 - Convention de nommage - [Taxonomie](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 - Etiquetage des ressources - [Tags](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/decision-guides/resource-tagging/)
