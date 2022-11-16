@@ -30,6 +30,7 @@ Mettre en place le processus de migration de l’application E-Commerce, en util
 - Framework d’adoption du cloud ´Microsoft pour Azure - [CAF](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/)
 - Zone d’atterrissage Azure - [Landing Zone](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/ready/landing-zone/)
 - Convention de nommage - [Taxonomie](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+     - [Document-modèle](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/Taxonomie_modele.pdf)
 - Etiquetage des ressources - [Tags](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/decision-guides/resource-tagging/)
 - Conditions pour la licence MFA - [MFA](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-licensing)
 
