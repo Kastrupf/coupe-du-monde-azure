@@ -93,9 +93,7 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 ---
 
 Organisé par [TFTEC Treinamentos Online](https://www.tftec.com.br). 
-
 Fait avec ❤️ par Fernanda ORLANDO 
-
 Suivez-moi sur [LinkedIn](https://www.linkedin.com/in/fernandaorlando/).
 
 ---
