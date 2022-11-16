@@ -31,6 +31,29 @@ Mettre en place le processus de migration de l’application E-Commerce, en util
 - Zone d’atterrissage Azure - [Landing Zone](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/ready/landing-zone/)
 - Convention de nommage - [Taxonomie](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 - Etiquetage des ressources - [Tags](https://learn.microsoft.com/fr-fr/azure/cloud-adoption-framework/decision-guides/resource-tagging/)
+- Conditions pour la licence MFA - [MFA](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-licensing)
+
+## **Scripts**
+
+- Commande pour vider le cache DNS : 
+```bash
+ipconfig /flushdns
+```
+
+- Commande pour valider l’enregistrement SOA pour la zone DNS (modification du domaine) :
+```bash
+nslookup -type=SOA nomDuDomainCustomise
+```
+
+- Script pour effectuer la réplication sur PowerShell, en tant qu'Administrateur :
+```powershell
+Start-ADSyncSyncCycle -PolicyType Delta
+```
+
+- Si vous recevez l’erreur que la commande n’est pas reconnue, exécutez la commande ci-dessous sur PowerShell, en tant qu'Administrateur, pour importer le module, puis à nouveau la commande de réplication :
+```powershell
+Import-Module –Name "C:\Program Files\Microsoft Azure AD Sync\Bin\ADSync" -Verbose
+```
 
 ## **Evidences**
 
@@ -42,3 +65,6 @@ Mettre en place le processus de migration de l’application E-Commerce, en util
 
 - ### ConditionalAccess
 <img width="835" alt="ConditionalAccess" style="width:800px" src="https://user-images.githubusercontent.com/43493818/202010095-16929cd7-7a4a-4296-8fc2-df4cbf1ada6a.png">
+
+- ### Dessin d'architecture
+<img width="529" alt="design_architecture_huitiemes" style="width:800px" src="https://user-images.githubusercontent.com/43493818/202211764-1390b978-d7b1-41d6-a945-5aadc9d8bc81.png">
