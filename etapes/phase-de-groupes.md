@@ -34,7 +34,7 @@ azcopy copy https://blablabla.blob.core.windows.net/vhd/disk-vm.vhd "votre token
 Import-Module ActiveDirectory
   
 # Store the data from NewUsersFinal.csv in the $ADUsers variable
-$ADUsers = Import-Csv C:\Scripts\NewUsersFinal.csv -Delimiter ";"
+$ADUsers = Import-Csv extras/NewUsersFinal.csv -Delimiter ";"
 
 # Define UPN
 $UPN = "blablabla.com"
