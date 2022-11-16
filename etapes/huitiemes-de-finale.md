@@ -14,10 +14,10 @@ Mettre en place le processus de migration de l’application E-Commerce, en util
 - 📝 Créer et migrer une zone DNS publique vers Azure
 - 📝 Synchroniser les identités ADDS avec Azure AD
 - 📝 Configurer l’identité hybride
-- 📝 Intégrer Azure Devops au nouveauo Tenant sur Azure  (Azure AD)
+- 📝 Intégrer Azure Devops au nouveau Tenant sur Azure  (Azure AD)
 - 📝 Ajuster les autorisations au sein de l’organisation dans Azure Devops conformément à la documentation de gouvernance
 - 📝 Créer un groupe de ressources de production et de développement
-- 📝 Créer une infrastructure RBAC pour la Souscription et le Resource Group, conformément à la documentation de gouvernance
+- 📝 Créer une infrastructure RBAC pour la souscription et le resource group, conformément à la documentation de gouvernance
 - 📝 Créer une structure de projet avec des activités initiales dans Azure Boards, en suivant la méthodologie Scrum
 - 📝 Créez une structure de réseau au format HUB-SPOKE, avec la division de service suivante : 
      - Réseau HUB pour les services « communs » tels qu’Active Directory
