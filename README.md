@@ -44,7 +44,7 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 - Effectuer la migration du serveur Active Directory vers Azure (format IaaS) ;
 - Moderniser l'authentification des applications dans un format moderne à l'aide d'Azure AD ;
 - S'assurer que les identités AD locales sont répliquées sur Azure AD, ce qui permet un utilisateur et un mot de passe uniques pour les deux environnements ;
-- Supprimez les images du catalogue de produits de la base de données et migrez-les vers la structure de stockage Azure ;
+- Supprimer les images du catalogue de produits de la base de données et migrez-les vers la structure de stockage Azure ;
 - Assurer un accès sécurisé pour les utilisateurs administrateurs de l'application avec double facteur d'authentification (MFA) ;
 - Pour respecter les normes de conformité, supprimez les chaînes de connexion du code d'application et stockez-les dans un coffre-fort Azure ;
 - Besoin de mettre en place des pratiques DevOps (CI/CD), afin d'assurer une plus grande agilité et un plus grand contrôle dans les changements et améliorations appliqués au site de vente ;
