@@ -1,0 +1,7 @@
+﻿FirstName;Initials;Lastname;Username;Email;StreetAddress;City;ZipCode;State;Country;Department;Password;Telephone;JobTitle;Company;OU
+Marcos;MS;Souza;marcos.souza;marcos.souza@raphaandrade.ml;21 Baker St;London;NW1 6XE;;GB;TI;Partiunuvem@2022;44123456780;Security Analyst;TFTEC;OU=Rapha Andrade,DC=raphaandrade,DC=ml
+Joana;JS;Silva;joana.silva;joana.silva@raphaandrade.ml;21 Baker St;London;NW1 6XE;;GB;TI;Partiunuvem@2022;44123456781;Support Analyst;TFTEC;OU=Rapha Andrade,DC=raphaandrade,DC=ml
+Paula;PA;Almeida;paula.almeida;paula.almeida@raphaandrade.ml;21 Baker St;London;NW1 6XE;;GB;Marketing;Partiunuvem@2022;44123456782;Analyst;TFTEC;OU=Rapha Andrade,DC=raphaandrade,DC=ml
+Felipe;FM;Machado;felipe.machado;felipe.machado@raphaandrade.ml;21 Baker St;London;NW1 6XE;;GB;TI;Partiunuvem@2022;44123456783;Project Analyst;TFTEC;OU=Rapha Andrade,DC=raphaandrade,DC=ml
+Bruna;BM;Moreira;bruna.moreira;bruna.moreira@raphaandrade.ml;21 Baker St;London;NW1 6XE;;GB;Recursos Humanos;Partiunuvem@2022;44123456784;Analyst;TFTEC;OU=Rapha Andrade,DC=raphaandrade,DC=ml
+Pedro;PO;Oliveira;pedro.oliveira;pedro.oliveira@raphaandrade.ml;21 Baker St;London;NW1 6XE;;GB;Financeiro;Partiunuvem@2022;44123456785;Analyst;TFTEC;OU=Rapha Andrade,DC=raphaandrade,DC=ml
