@@ -4,10 +4,13 @@ Live Youtube [QUARTS DE FINALE](https://youtu.be/8bZxMvJcgD4)
 
 ## **Objectifs**
 
-Préparer l’environnement sur Azure pour la migration de l’infrastructure on premise existante. 
-Configurer l’infrastructure Azure Migrate pour effectuer le processus d’évaluation de l’environnement. 
-Configurer le Process Server pour répliquer les machines virtuelles on premise pour Azure.
-Effectuer le test de migration d’une machine virtuelle pour Azure. 
+Préparer l’environnement sur Azure pour la migration de l’infrastructure on premise existante ; 
+configurer l’infrastructure Azure Migrate pour effectuer le processus d’évaluation de l’environnement ;
+configurer le Process Server pour répliquer les machines virtuelles on premise pour Azure ;
+effectuer le test de migration d’une machine virtuelle pour Azure. 
+
+<img width="463" alt="2022-11-18 07_26_13-Cópia de nova tftec site banners" style="width:600px" src="https://user-images.githubusercontent.com/43493818/202635647-1c5f8606-2ece-4445-85b8-4f3a48a23336.png">
+
 
 ## **Tâches**
 
