@@ -82,7 +82,6 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 ## **Liens**
 
 - [Calendrier](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/calendrier.md)
-- [Résultats](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/resultats.md)
 - [Publications sur les réseaux sociaux](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/extras/publication.md)
 
 
