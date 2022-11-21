@@ -4,5 +4,5 @@
 - [X] Phase de groupes ✔️
 - [X] Huitièmes de finale : ✔️
 - [X] Quarts de finale : ✔️
-- [X] Demi-finales : ✔️
+- [X] Demi-finale : ✔️
 - [ ] Finale : A VENIR
