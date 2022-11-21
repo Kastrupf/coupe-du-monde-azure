@@ -3,6 +3,6 @@
 - [X] Phase éliminatoire ✔️
 - [X] Phase de groupes ✔️
 - [X] Huitièmes de finale : ✔️
-- [ ] Quarts de finale : A VENIR
-- [ ] Demi-finales : A VENIR
+- [X] Quarts de finale : ✔️
+- [X] Demi-finales : ✔️
 - [ ] Finale : A VENIR
