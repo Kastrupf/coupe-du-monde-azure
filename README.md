@@ -20,7 +20,7 @@ Du 03 au 24/11/2022
  <a href="#points-importants">Points importants</a> • 
  <a href="#exécution-du-projet">Exécution du projet</a> • 
  <a href="#liens">Liens</a> 
-</p>
+ </p>
 
 
 ## **Le projet**
@@ -76,7 +76,7 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 - [Huitièmes de finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/huitiemes-de-finale.md) ✔️
 - [Quarts de finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/quarts-de-finale.md) ✔️
 - [Demi-finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/demi-finale.md) ✔️
-- [Finale](https://https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/finale.md)
+- [Finale](https://https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/finale.md) ✔️
 
 
 ## **Liens**
@@ -88,7 +88,7 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 
 ## **Coupe du Monde avec IaC**
 
-- [Terraform](https://github.com/Kastrupf/coupe-du-monde-azure/tree/main/terraform/) - *en construction*
+- [Terraform](https://github.com/Kastrupf/coupe-du-monde-azure/tree/main/terraform/) - *à venir*
 
 ---
 
