@@ -5,4 +5,4 @@
 - [X] Huitièmes de finale : ✔️
 - [X] Quarts de finale : ✔️
 - [X] Demi-finale : ✔️
-- [ ] Finale : A VENIR
+- [X] Finale : ✔️
