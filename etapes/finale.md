@@ -10,15 +10,17 @@ Développer le pipeline créé lors de la demi-finale pour travailler avec des e
 
 ## **Tâches**
 
+- 📝 Configurer une pipeline pour la publication des applications, segmentation par environnement.
+- 📝 Réaliser le déploiement pour chaque environnement - DEV, HML et PRD - et chacun avec son propre stage.
 - 📝 Brancher la WebApp principale pour permettre l’échange entre les environnements, afin d’assurer la plus grande disponibilité possible pour l’application, possibilité de restauration immédiate, en modifiant uniquement le pointage, sans avoir besoin d’apporter des modifications en DNS.
 - 📝 Dans la partie DevOps, améliorer le contrôle du processus de déploiement de nouveaux packages dans la branche principale (main, master...). 
 - 📝 Ajouter une hiérarchie d’approbations à un pipeline de publication.
 - 📝 Configurer pour toute modification de code dans la branche principale pour déclencher automatiquement le pipeline de génération.
-- 📝 Implémenter les meilleures pratiques d’authentification.
 - 📝 Stocker les images d’application dans un conteneur d’objets blob.
 - 📝 Stocker la clé d’accès du compte de stockage dans un secret Azure Key Vault, garantissant la protection des fichiers utilisés par WebApp.
 - 📝 Assurer que la chaîne de connexion Azure SQL Database est sécurisée. 
-- 📝 Créer des groupes Azure AD, activation de l’accès conditionnel avec une configuration MFA pour l’accès aux environnements
+- 📝 Configurer le processus d’authentification et d’autorisation des ASP.NET d’identité pour l’intégration à Azure AD 
+- 📝 Implémenter les meilleures pratiques d’authentification avec la création des groupes Azure AD, activation de l’accès conditionnel avec une configuration MFA pour l’accès aux environnements
 - 📝 Appliquer automatiquement l’authentification multi facteur à un certain groupe d’utilisateurs, lorsqu’ils accèdent à une application spécifique. 
 
 
