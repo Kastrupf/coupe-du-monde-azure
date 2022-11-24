@@ -76,7 +76,7 @@ La migration vers le cloud vise à atteindre les objectifs suivants :
 - [Huitièmes de finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/huitiemes-de-finale.md) ✔️
 - [Quarts de finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/quarts-de-finale.md) ✔️
 - [Demi-finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/demi-finale.md) ✔️
-- [Finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/26c00f3299c5e0bfae68a9615070992a4b8902d9/etapes/finale.md) ✔️
+- [Finale](https://github.com/Kastrupf/coupe-du-monde-azure/blob/main/etapes/finale.md) ✔️
 
 
 ## **Liens**
