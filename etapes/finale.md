@@ -18,6 +18,7 @@ Développer le pipeline créé lors de la demi-finale pour travailler avec des e
 - 📝 Stocker les images d’application dans un conteneur d’objets blob.
 - 📝 Stocker la clé d’accès du compte de stockage dans un secret Azure Key Vault, garantissant la protection des fichiers utilisés par WebApp.
 - 📝 Assurer que la chaîne de connexion Azure SQL Database est sécurisée. 
+- 📝 Créer des groupes Azure AD, activation de l’accès conditionnel avec une configuration MFA pour l’accès aux environnements
 - 📝 Appliquer automatiquement l’authentification multi facteur à un certain groupe d’utilisateurs, lorsqu’ils accèdent à une application spécifique. 
 
 
@@ -41,7 +42,7 @@ az webapp deployment slot swap -g $(ResourceGroupName) --n $(WebsiteName) --slot
 - ### Releases
 <img width="958" alt="ReleasesPipelines" style="width:800px" src="https://user-images.githubusercontent.com/43493818/203641008-c15281d8-a203-49b2-8826-3db1aff3c1bf.png">
 
-- ### Utilisation du KeyVault pour la protection de clés et secrets
+- ### Mise en place du Key Vault pour enregistrer les chaînes de base de données et les liens vers le compte de stockage
 <img width="856" alt="KeyVaultDEV" style="width:800px" src="https://user-images.githubusercontent.com/43493818/203640675-3c50cb71-66ba-4fcd-8b08-32d42cceecb5.png">
 
 - ### Site en ligne (DEV) 
